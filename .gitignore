@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment variables (never commit secrets)
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+contracts/out/
+contracts/cache/
+
+# Foundry artifacts (reproducible via forge build)
+contracts/out/
+
+# Circle recovery files (sensitive)
+.circle/
+
+# Logs
+*.log
+console.jsonl
+traces.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Bun
+.bun/
