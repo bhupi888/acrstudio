@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Arc Light (default) ── */
+:root {
+  --bg: #ffffff;
+  --bg-gradient: linear-gradient(180deg, #f9f9fc 0%, #fffcf7 52%, #fbf7f2 100%);
+  --surface: rgba(255, 255, 255, 0.72);
+  --surface-strong: rgba(255, 255, 255, 0.90);
+  --surface-muted: #f5f5f8;
+  --ink: #122d45;
+  --ink-2: #334155;
+  --muted: #6b6580;
+  --subtle: #8a849c;
+  --border: rgba(18, 45, 69, 0.12);
+  --border-strong: rgba(25, 53, 77, 0.50);
+  --accent: #122d45;
+  --accent-hover: #1061a6;
+  --focus: #85b1ed;
+  --success: #1a8047;
+  --danger: #ba2b4c;
+  --warning: #92400e;
+  color-scheme: light;
+}
+
+/* ── Arc Dark ── */
+[data-theme="dark"] {
+  --bg: #0c111a;
+  --bg-gradient: linear-gradient(180deg, #0c111a 0%, #111827 60%, #0f1c2e 100%);
+  --surface: rgba(255, 255, 255, 0.06);
+  --surface-strong: rgba(255, 255, 255, 0.10);
+  --surface-muted: rgba(255, 255, 255, 0.05);
+  --ink: #e8edf3;
+  --ink-2: #9aacbe;
+  --muted: #6b7d93;
+  --subtle: #4e6070;
+  --border: rgba(255, 255, 255, 0.10);
+  --border-strong: rgba(255, 255, 255, 0.28);
+  --accent: #3d8ef0;
+  --accent-hover: #5ea5f8;
+  --focus: #3d8ef0;
+  --success: #22c55e;
+  --danger: #f43f5e;
+  --warning: #f59e0b;
+  color-scheme: dark;
+}
+
+/* Honour system preference when no explicit toggle set */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0c111a;
+    --bg-gradient: linear-gradient(180deg, #0c111a 0%, #111827 60%, #0f1c2e 100%);
+    --surface: rgba(255, 255, 255, 0.06);
+    --surface-strong: rgba(255, 255, 255, 0.10);
+    --surface-muted: rgba(255, 255, 255, 0.05);
+    --ink: #e8edf3;
+    --ink-2: #9aacbe;
+    --muted: #6b7d93;
+    --subtle: #4e6070;
+    --border: rgba(255, 255, 255, 0.10);
+    --border-strong: rgba(255, 255, 255, 0.28);
+    --accent: #3d8ef0;
+    --accent-hover: #5ea5f8;
+    --focus: #3d8ef0;
+    --success: #22c55e;
+    --danger: #f43f5e;
+    --warning: #f59e0b;
+    color-scheme: dark;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'DM Sans', sans-serif;
+  min-height: 100dvh;
+  background: var(--bg-gradient);
+}
+
+.display {
+  font-family: 'Space Grotesk', sans-serif;
+  letter-spacing: -0.03em;
+}
+
+.mono {
+  font-family: 'JetBrains Mono', Menlo, monospace;
+}

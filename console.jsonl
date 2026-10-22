@@ -1,0 +1,122 @@
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1791866595058}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1791866595777}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1791866647275}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1791866868309}
+{"level":"error","message":"Unhandled promise rejection: {\"message\":\"Tx Signature: User denied transaction signature.\",\"name\":\"Error\",\"code\":4001}","timestamp":1791866980554}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":-32601,\"message\":\"method not supported: wallet_revokePermissions\"}","timestamp":1791867159808}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":-32601,\"message\":\"method not supported: wallet_revokePermissions\"}","timestamp":1791867426780}
+{"level":"error","message":"Unhandled promise rejection: {\"code\":-32601,\"message\":\"method not supported: wallet_revokePermissions\"}","timestamp":1791867843453}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1791868163305}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1791868203696}
+{"level":"error","message":"[vite] failed to connect to websocket.\nyour current setup:\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io/ <--[HTTP]--> localhost:5173/ (server)\n  (browser) ir5l0uqqq3iofqfqgrskr.preview.studio.arc.io:/ <--[WebSocket (failing)]--> localhost:5173/ (server)\nCheck out your Vite / network configuration and https://vite.dev/config/server-options.html#server-hmr .","timestamp":1791868959328}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224729385}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792224729387}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792224729387}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792224729388}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreementSheet.tsx","timestamp":1792224729388}
+{"level":"debug","message":"[vite] hot updated: /src/components/MilestoneCard.tsx","timestamp":1792224729389}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreementSheet.tsx","timestamp":1792224767272}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224767272}
+{"level":"debug","message":"[vite] hot updated: /src/components/MilestoneCard.tsx","timestamp":1792224825825}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224825826}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792224892871}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224892871}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792224922572}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224922572}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792224954958}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224954958}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792224957527}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224957527}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792224974845}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224974845}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreementSheet.tsx","timestamp":1792224976666}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792224976666}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792226858471}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792228667723}
+{"level":"debug","message":"[vite] connected.","timestamp":1792240217272}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792240364984}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792240364984}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792240371913}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792240371913}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792240389427}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792240389427}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792240416194}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792240416194}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792240459735}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1792240459735}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792240479524}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792240479524}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792240510299}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1792240510299}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241753914}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792241753915}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792241753915}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792241753915}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreementSheet.tsx","timestamp":1792241753915}
+{"level":"debug","message":"[vite] hot updated: /src/components/MilestoneCard.tsx","timestamp":1792241753915}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1792241753915}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241754907}
+{"level":"debug","message":"[vite] hot updated: /src/components/CreateAgreementSheet.tsx","timestamp":1792241754907}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792241900472}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241900473}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792241928196}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241928196}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792241939080}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241939080}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792241952656}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241952656}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementList.tsx","timestamp":1792241953073}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241953073}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792241955161}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241955161}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792241960208}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241960208}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792241960668}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792241960668}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792241995514}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatsBar.tsx","timestamp":1792241995514}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1792242001747}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatsBar.tsx","timestamp":1792242001747}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242013051}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatsBar.tsx","timestamp":1792242013051}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242025949}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatsBar.tsx","timestamp":1792242025949}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242026763}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatsBar.tsx","timestamp":1792242026764}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792242041175}
+{"level":"debug","message":"[vite] hot updated: /src/components/StatsBar.tsx","timestamp":1792242041176}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243888172}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1792243905350}
+{"level":"debug","message":"[vite] connected.","timestamp":1792247505899}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792247592077}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247592077}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792247608270}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247608270}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792247645267}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247645267}
+{"level":"debug","message":"[vite] hot updated: /src/components/FilterBar.tsx","timestamp":1792247671807}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247671807}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1792247707820}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247707820}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792247727255}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247727256}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792247729000}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247729000}
+{"level":"debug","message":"[vite] hot updated: /src/components/AgreementView.tsx","timestamp":1792247729902}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247729902}
+{"level":"debug","message":"[vite] hot updated: /src/components/FilterBar.tsx","timestamp":1792247762655}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247762655}
+{"level":"debug","message":"[vite] hot updated: /src/components/NotificationCenter.tsx","timestamp":1792247763895}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247763895}
+{"level":"debug","message":"[vite] hot updated: /src/components/NotificationCenter.tsx","timestamp":1792247823696}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247823696}
+{"level":"debug","message":"[vite] hot updated: /src/components/NotificationCenter.tsx","timestamp":1792247824588}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247824588}
+{"level":"debug","message":"[vite] hot updated: /src/components/NotificationCenter.tsx","timestamp":1792247849141}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247849141}
+{"level":"debug","message":"[vite] hot updated: /src/components/NotificationCenter.tsx","timestamp":1792247850032}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247850032}
+{"level":"debug","message":"[vite] hot updated: /src/components/NotificationCenter.tsx","timestamp":1792247913331}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247913331}
+{"level":"debug","message":"[vite] hot updated: /src/components/NotificationCenter.tsx","timestamp":1792247918597}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1792247918598}
